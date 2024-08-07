@@ -1,0 +1,28 @@
+LEAD   4447940334  Salet Ruiz
+                   01/08 X Llamada PC
+                   01/08 S Mensaje
+                   02/08 Respondi mensaje
+                   03/08 WhatsApp Audio, me dejo en visto.
+                   05/08 Pregunte si aun sigue interesada en nuestro curso
+
+LEAD   4442615346  Sara Gr (Grimaldo) 
+                   01/08 A Llamada
+       REAGENDA    01/08 Cita Lunes 5/ 4:30 pm. (No acudio)
+                   07/08 X Llamada, BDV 2V
+
+PERS   4447288720  Shamandi Rafaela
+       REAGENDA    01/08 Cita Lunes 5/ 10:00 am (No acudio, ella se comunica)
+                   06/08 Mando mensaje 
+
+LEAD   4441536074  Santa Silva
+                   01/08 X Llamada
+                   01/08 S Mensaje
+                   01/08 A Llamada de WhatsApp, Comunicarse viernes 2/ 5:00pm
+                           para agendar cita.
+                   Ctx. Lo requiere para su hija de 18 años 
+                   02/08 A Llamada, Comunicarse el Martes 6/ 5:00 pm
+
+LEAD 4442001991    Ramses Martínez
+                   01/08 A Llamada
+     TRONADO       01/08 Cita Lunes 5/ 2:00 pm (No acudio, envio msj, ya encontro 
+                                               otro curso)

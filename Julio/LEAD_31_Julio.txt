@@ -1,0 +1,16 @@
+LEAD 4446647307 Uresti Ure
+                29/07 X Llamada 
+                29/07 S Mensaje 
+                01/08 X Llamada 
+                07/08 X Llamada, BDV 2V 
+
+LEAD 4443210913 Infante Ckaren
+                29/07 X Llamada 
+                29/07 S Mensaje,  
+    TRONADA     01/08 A Llamada, Cuelga
+
+LEAD 4442524369 Rene Palemon Rodriguez
+                29/07 X Llamada 
+                29/07 Cita Jueves 1/ 6:00 pm (Reagenda)
+   REAGENDA     01/08 Reagendo para el Sábado a las 11:00 am (No Acudio)
+   TRONADO      05/08 A Llamada, TRONADO
