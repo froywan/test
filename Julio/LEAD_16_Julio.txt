@@ -15,7 +15,7 @@ LEAD 4443021398 Gaxiola Jalyl
                 Ctx: Lo quiere para su hija Fernanda de 18 años
 
 
-LEAD 4443194894 Kimberly Gonzalez Zarate Cita Miercoles 17 / 11:00 am (No acudio)
+LEAD 4443194894 Kimberly Gonzalez Zarate Cita Miercoles 17 / 11:00 am (No acudio) (TRONAD)
      REAGENDA   El Curso lo busca por motivo escolar 
                 esta estudiando Adm. En la UASLP
                 18/07 Llamada Respodion 1er Contacto
@@ -23,13 +23,13 @@ LEAD 4443194894 Kimberly Gonzalez Zarate Cita Miercoles 17 / 11:00 am (No acudio
                 31/07 A Llamada, TRONADA
 
 
-LEAD 4871241153  Hilaria Garcia Ramirez Buzón de voz 2 veces
+LEAD 4871241153  Hilaria Garcia Ramirez Buzón de voz 2 veces (TRONAD)
      TRONADA     Llamar a las 4:00 pm le marque no respondio
                  Menaje y llamada no ha respondido
                  25/07 X Llamada BDV 2V
                  29/07 TRONADA, A Llamada pero colgo 
                  
-WA 4442909245 Buzon de voz 2 veces
+WA 4442909245 Buzon de voz 2 veces (TRONAD)
    TRONADA      Envie msj Whats                
                17/07 Llamen nuevamente no respondio 
                23/07 A Llamada, se llama Yadira y el curso lo busca 
