@@ -1,4 +1,4 @@
-LEAD 4444508013 Heldy Reynaga 
+LEAD 4444508013 Heldy Reynaga (TRONAD)
                 09/07 X Llamada
                 09/07 S Mensaje No me contesto audios de primer contacto
      TRONADA    03/08 A Llamada TRONADA
@@ -10,7 +10,7 @@ LEAD 4442016914  Iron Rasec  Cita Jueves 18 / 10:00 am
                  18/07 Llamada Nadia reagendo para el Viernes 19 / 1:00 pm
                  19/07 Dejo apartado de $690, se inscribe el Jueves 25/07
 
-LEAD 4441190561 Erendira Muñiz 
+LEAD 4441190561 Erendira Muñiz (TRONAD)
     REAGENDA    9/07 Cita Lunes 8 / 12:00 pm (No acudio)
                 9/07 Ctx Trabaja en Pacgroup lo busca por oportunidad laboral
    TRONADA      03/08 X Llamada, TRONADA
@@ -19,13 +19,13 @@ LEAD 4442024575 Cinthya Marina Gomez Ledezma (Ya no le interesa)
      TRONADA    No ha respondido llamada ni mensaje
                 El curso es para su sobrino pero ya no esta intresada
 
-LEAD 4444681069 Juan Jesus P Moran Cita Miercoles 10 / 10:00 am (Acudio)
+LEAD 4444681069 Juan Jesus P Moran Cita Miercoles 10 / 10:00 am (TRONAD)(Acudio)
     TRONADO     El Curso lo busca porque quiere viajar al extranjero
                 es músico y tiene conocimeintos básicos.
                 Sele ofrecio la bec, lleno solicitud quedo de consultarlo con su esposa
                 y se le dio fecha limite hasta las 7:00 pm
 
-LEAD 4442035323 Exilia Rangel
+LEAD 4442035323 Exilia Rangel (TRONAD)
                 No ha respondido llamada ni mensaje
                 17/07 Le marque por Whats respondio
                 17/07 Comunicarse a las 2:00 pm 
@@ -38,11 +38,11 @@ LEAD 4441255853 Silvia PA (No le interesa)
                   17/07 S Mensaje 
                   17/07 Le marque por Whats no respondio  
 
-LEAD 4443964542 Anette A'uss  (No existe)
+LEAD 4443964542 Anette A'uss  (NO VALIDO) (TRONAD)
      TRONADA    Marco, pero el numero no existe
                 tampoco cuenta con WA
 
-LEAD 4442850866 Lili Espinoza  (No esta interesada)
+LEAD 4442850866 Lili Espinoza  (No esta interesada) (TRONAD)
       TRONADA  No respodió llamada.
                Le escribí msj por WA y le hice primer contacto 
                El curso lo busca porque estudia la universidad 
@@ -57,7 +57,7 @@ LEAD 4442778704 Paulina Baez
 
 LEAD Gerardo Velazquez (Personal de Rocha)
 
-LEAD 4442391231 Yahir Torres  
+LEAD 4442391231 Yahir Torres  (TRONAD)
     TRONADO     9/07 Cita Miercoles 17 / 5:00 pm 
                 No respondio llamada, le envie mensaje 
                 El curso lo busca porque quiere hablarlo mejo y 
@@ -68,7 +68,7 @@ LEAD 4442391231 Yahir Torres
                 lo busca por cuestiones laborales 
    
 
-LEAD 4443930108 Daniela Cristal Arriaga Sauceda (Dany Dcas) (Ya no esta interesada)
+LEAD 4443930108 Daniela Cristal Arriaga Sauceda (Dany Dcas) (Ya no esta interesada)(TROND)
      TRONADA    Acudió a Cita ese mismo día el Martes 9 
                 Es enfermera e curso lo busca porque quiere ejercer su profesión 
                 en Estados Unidos Nacio allá pero reside en México desde los cicno 
@@ -80,23 +80,23 @@ LEAD 4444285628  Leticia Guadalupe Torres
                  17/07 Le Marque poe Whats no reponde
                  22/07 A Llamada, comunicarse a las 6:30 pm 
 
-LEAD  4441741497 Miriam Liliana G Perales 
+LEAD  4441741497 Miriam Liliana G Perales  (TRONAD)
       TRONADA     9/07 Cita Lunes 15 / 11:00 am
                        El curso lo busca para su hijo Héctor de 18 años
                   17/07 Respodio llamada no esta interesada
 
 
-LEAD 4441147238 Wendy B Hernandez Arcos 
+LEAD 4441147238 Wendy B Hernandez Arcos (TRONAD)
     TRONADA      9/07 Cita Lunes 22 / 4:00 pm
                 El curso lo busca para su hija Yamilet de 17 años, 
                 se le complica asistir esta semana.
 
-LEAD 4411220955 Mayela Dte BDV 2V  
+LEAD 4411220955 Mayela Dte BDV 2V (TRONAD)
     TRONADA     No respondio llamada le escribí mensaje respondio
                 que ya esta inscrita en otro curso por parte de su trabajo 
 
 
-LEAD 4441368233 Samuel Hernández Pérez 
+LEAD 4441368233 Samuel Hernández Pérez (TRONAD)
      TRONADO    Contesto se le dio primer contacto y colgo 
                 Trabaja en una gasera, busca un curso para los
                 días Domingo ha estudiado Inglés en línea
@@ -108,7 +108,7 @@ LEAD 4444457507 Josue Aranda BDV 2V Cita Miercoles 17 6:00 y 6:30 pm
      REAGENDA   Envie msj Whtas No ha respondido 
                 El curso lo busca por cuestion laboral
 
-LEAD 4443347566 Irmainn Zapji (Irma Zapata)
+LEAD 4443347566 Irmainn Zapji (Irma Zapata) (TRONAD)
      TRONADA    No ha respondido llamada le envié mensaje
                 Respondio el mensaje lo requiere para su hija 
                 Ana Karen de 17 años.

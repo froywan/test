@@ -1,15 +1,17 @@
-WA   4441214825 Magdalena Garcia
+WA   4441214825 Magdalena Garcia   (COMUNICARSE)
                 06/08 X Llamada
                 06/08 S Mensaje, respodio Magdalena Garcia
                                  busca un curso presencial.
                 06/08 S WhatsApp Audio, dejo en visto.
-                06/08 A Llamada, comunicarse el Lunes 12 / 6:00 pm
+    COMUNICARSE 06/08 A Llamada, comunicarse el Lunes 12 / 6:00 pm
                 
-LEAD 4446660068 Arleth Delgado 
+LEAD 4446660068 Arleth Delgado (TRONADO)
                 06/08 A Llamada
-                06/08 Cita Miercoles 7 / 4:30 pm
+     REAGENDA   06/08 Cita Miercoles 7 / 4:30 pm (No acudio)
+                08/07 X Llamada
+     TRONADA    08/07 X Llamada
 
-LEAD 4861164946 Santigo Fuentes 
+LEAD 4861164946 Santigo Fuentes (TRONADO)
                 06/08 X Llamada, BDV 2V
      TRONADO    06/08 S Mensaje, el curso lo buca para su NIÑA DE 8 AÑOS
 
@@ -18,21 +20,23 @@ LEAD 4861164946 Santigo Fuentes
 #                VICTOR                                                       #
 ###############################################################################
 
-FORM 4444952532 Sonia Camacho 
+FORM 4444952532 Sonia Camacho (COMUNICARSE en SEPTIEMBRE)
                 06/08 A Llamada. 
      REAGENDA   06/08 Cita Sábado 2 Agosto/ 11:30 am
                 07/08 X Llamada. 
+   COMUNICARSE  08/08 A Llamada Comunicarse en SEPTIEMBRE
                 
-LEAD 4443185163 Vera Martinez 
+LEAD 4443185163 Vera Martinez   
                 06/08 A Llamada. 
                 07/08 A Llamada, respondio pero no habló 
+                08/08 X Llamada
                
 LEAD 4447088601 Veronica Martinez 
                 06/08 A Llamada. 
                 07/08 A Llamada, Comunicarse Miercoles 14 a las 12:00 pm
 
 
-LEAD 4447278693 Erika Martínez 
+LEAD 4447278693 Erika Martínez (NO VALIDO)
      NO VALIDO  06/08 Numero No Valido
 
 ###############################################################################

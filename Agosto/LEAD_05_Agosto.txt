@@ -1,4 +1,4 @@
-WA   4443393899  Jenny       
+WA   4443393899  Jenny  (CITA)     
                  05/08 X Llamada, BDV 2V
                  05/08 S Mensaje WhatsApp Audio, Cita
                  05/08 Cita Sábado 10/ 11:00 am 
@@ -15,19 +15,21 @@ WA   4442241100  Marlene
 
 PERS 4442164535  Cassandra Mancilla
                  07/08 Audio WhatsApp 
-                 Queire esperar hasta que el instituto de Industrias este listo 
+                 Quiere esperar hasta que el instituto de Industrias este listo 
 
-LEAD 4441701811  Fernando Torres 
+LEAD 4441701811  Fernando Torres (TRONADO)
                  05/08 A Llamada Cita
                  05/08 Cita: Miércoles 7 / 11:00 am
+     REAGENDA    06/08 Reagenda: Jueves 8 / 11:00 am (No acudio)
+                 08/08 Mucha reagenda TRONADO
 
-LEAD 4441309985  Julio cesar sanchez 
+LEAD 4441309985  Julio cesar sanchez  (TRONADO)
                  05/08 X Llamada BDV 2V
                  05/08 S Mensaje
                  05/08 A Llamada, Comunicarse a las 6:00 pm, Marque BDV 2V
      TRONADO     05/08 A Llamada, él no pidio inf, me dijo que lo diera de baja
 
-LEAD 4442254992  Ana Laura González 
+LEAD 4442254992  Ana Laura González (TRONADA)
                  05/08 A Llamada, no hablo y colgo 
                  05/08 S Mensaje
      TRONADA     07/08 A Llamada, no hablo y colgo. TRONADA 
@@ -36,9 +38,13 @@ LEAD 2226630942  Toño Diaz
                  05/08 A Llamada, comunicarse a las 8:00 pm, 
      COMUNICARSE 05/08 A Llamada a las 8:00 pm comunicarse Viernes 9 /8:00 pm
 
-LEAD 4445387786  Luis Zarate 
+LEAD 4445387786  Luis Zarate (REAGENDA)
                  05/08 A Llamada
      REAGENDA    05/08 Cita Martes 6/ 6:00 pm (No acudio )
                  07/08 X Llamada, BDV 2V
+                 08/08 X Llamada, BDV 2V
 
 PERS 4445233127   
+
+Oswaldo M.
+

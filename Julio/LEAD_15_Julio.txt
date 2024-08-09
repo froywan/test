@@ -8,21 +8,22 @@ LEAD  4444352332 Rafaela Barcena
       REAGENDA   Cita Sábado 20 / 1:30 pm (No Acudio)
                  Trabaja en una financiera tiene 52 años 
 
-LEAD  4444501354 Maria Loredo  Buzón de voz(BDV)
+LEAD  4444501354 Maria Loredo  Buzón de voz(BDV) (TRONAD)
       TRONADA    16/07 envié msj Whats
                  16/07 repondió llamada pero colgo
                  25/07 X Llamada BDV 2V
 
-LEAD  4442844783 Magy Salas  Respondió y colgo
+LEAD  4442844783 Magy Salas  Respondió y colgo (TRONAD)
       TRONADA     No se le ha dado primer contacto
                   23/07 A Llamada
                   23/07 El curso es para su hija ella me va a pasar su numero
 
-LEAD  4851294401 Maria Elena Reyes Sanchez  Cita Martes 16 / 7:00 pm (No cudio)
+LEAD  4851294401 Maria Elena Reyes Sanchez   (TRONAD)
+                  Cita Martes 16 / 7:00 pm (No cudio)
       TRONADA    El curso lo busca por motivo laboral trabaja de Administración
                        24/07 A Llamada, Comunicarse el Lunes 29 para agendar cita
 
-LEAD  4445234404 Carmen lizeth lopez olvera  
+LEAD  4445234404 Carmen lizeth lopez olvera  (TRONAD)
       TRONADA    15/07 A Llamada, 
                  Ctx   El curso o busca para su hija 
                        comunicarse mañana a las 11:00 am, marque pero no respondio 
@@ -31,10 +32,10 @@ LEAD  4445234404 Carmen lizeth lopez olvera
                  29/07 X Llamada, BDV 2V
      
 
-LEAD  4423428756 Ti O Cruz 
+LEAD  4423428756 Ti O Cruz (TRONAD)
       TRONADO    Numero ocupado msj Whats
 
-LEAD  8125978467 Martha Marce  Buzón de voz dos veces 
+LEAD  8125978467 Martha Marce  Buzón de voz dos veces  (TRONAD)
      TRONADO     envie msj de Whats, Respodio msj el curso lo busca para 
                  su nieto que tiene 4 años
 
@@ -45,7 +46,7 @@ LEAD  4442632935 Alma Delia Ibarra Olvera Cita Martes 16 / 10:00 am (No acudio)
       REAGENDA   El curso lo busca para su hija Aylin de 18 años    
                  Reagendar 
    
-LEAD  4441418059 Pedro Fernando Arriaga Diaz 
+LEAD  4441418059 Pedro Fernando Arriaga Diaz (TRONAD)
       TRONADO    envié msj Whats
                  Comunicare a las 5:00pm me comunique nuevamente no respodió
                  29/07 A Llamada, TRONADO no le interesa
@@ -56,7 +57,7 @@ LEAD  4443153648 Fátima  Buzón de voz 2 veces
                  25/07 Me dio un nuevo numero 4441594529                   
                  25/07 El numero de Fátima es 4447303999
                        
-PERSONAL 4447303999 Jorge Ibarra Rodriguez
+PERSONAL 4447303999 Jorge Ibarra Rodriguez 
                  25/07 A Llamada
                  25/07 Ctx, estudió en el Tec. Regional Ingenieria en Sis. Comp.
                         Lo busca por certificacion cadbridge, TOEFL, 

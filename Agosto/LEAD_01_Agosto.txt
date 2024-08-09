@@ -1,14 +1,15 @@
-LEAD   4447940334  Salet Ruiz
+LEAD   4447940334  Salet Ruiz (TRONAD)
                    01/08 X Llamada PC
                    01/08 S Mensaje
                    02/08 Respondi mensaje
                    03/08 WhatsApp Audio, me dejo en visto.
                    05/08 Pregunte si aun sigue interesada en nuestro curso
+       TRONADA     07/08 A Llamada Ya esta en otro curso (TRONADA)
 
-LEAD   4442615346  Sara Gr (Grimaldo) 
+LEAD   4442615346  Sara Gr (Grimaldo)  (TRONAD)
                    01/08 A Llamada
        REAGENDA    01/08 Cita Lunes 5/ 4:30 pm. (No acudio)
-                   07/08 X Llamada, BDV 2V
+       TRONADA     07/08 X Llamada, BDV 2V
 
 PERS   4447288720  Shamandi Rafaela
        REAGENDA    01/08 Cita Lunes 5/ 10:00 am (No acudio, ella se comunica)
@@ -21,8 +22,10 @@ LEAD   4441536074  Santa Silva
                            para agendar cita.
                    Ctx. Lo requiere para su hija de 18 años 
                    02/08 A Llamada, Comunicarse el Martes 6/ 5:00 pm
+                   08/08 X Llamada
+                   
 
-LEAD 4442001991    Ramses Martínez
+LEAD 4442001991    Ramses Martínez  (TRONAD)
                    01/08 A Llamada
      TRONADO       01/08 Cita Lunes 5/ 2:00 pm (No acudio, envio msj, ya encontro 
                                                otro curso)
