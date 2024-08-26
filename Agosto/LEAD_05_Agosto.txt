@@ -1,23 +1,32 @@
-WA   4443393899  Jenny  (CITA)     
+WA   4443393899  Jenny  (CITA SABADO 10/ 11:00 am) (REAGENDA)
                  05/08 X Llamada, BDV 2V
                  05/08 S Mensaje WhatsApp Audio, Cita
                  05/08 Cita Sábado 10/ 11:00 am 
+                 14/08 X Llamada, BDV 2V
+                 15/08 X Llamada, BDV 2V
 
-LEAD 4441738815  Pedro Zavala 
+LEAD 44D
                  05/08 X Llamada 
                  05/08 S Mensaje WhatsApp 
                  06/08 X Llamada BDV 2V
                  07/08 X Llamada
+                 09/08 X Llamada
+                 14/08 X Llamada, BDV 2V
+                 15/08 X Llamada, BDV 2V
+                 16/08 X Llamada, BDV 2V
              
-
-WA   4442241100  Marlene 
+WA   4442241100  Marlene (COMUNICARSE LUNES 12)
                  05/08 A Llamada, Pidio costos ella se comunica.
+                 09/08 A Llamada, Comunicarse el Lunes 12/ 2:00 pm
+                 12/08 X Llamada, BDV 2V
+                 14/08 X Llamada, BDV 2V
+                 15/08 X Llamada, BDV 2V
 
-PERS 4442164535  Cassandra Mancilla
+PERS 4442164535  Cassandra Mancilla (COUNICARSE CUANDO ESTE LSITO INDUSTRIAS)
                  07/08 Audio WhatsApp 
                  Quiere esperar hasta que el instituto de Industrias este listo 
 
-LEAD 4441701811  Fernando Torres (TRONADO)
+LEAD 4441701811  Fernando Torres (TRONADO) (REAGENDA MUCHAS REAGENDAS)
                  05/08 A Llamada Cita
                  05/08 Cita: Miércoles 7 / 11:00 am
      REAGENDA    06/08 Reagenda: Jueves 8 / 11:00 am (No acudio)
@@ -34,17 +43,21 @@ LEAD 4442254992  Ana Laura González (TRONADA)
                  05/08 S Mensaje
      TRONADA     07/08 A Llamada, no hablo y colgo. TRONADA 
 
-LEAD 2226630942  Toño Diaz 
+LEAD 2226630942  Toño Diaz  
                  05/08 A Llamada, comunicarse a las 8:00 pm, 
      COMUNICARSE 05/08 A Llamada a las 8:00 pm comunicarse Viernes 9 /8:00 pm
+                 09/08 A Llamada, Comunicarse a las 8:30 pm, me comunique 
+                       no respondio
+                 14/08 A Llamada, Comunique a las 9:00
+                 15/08 NADIA LE MARCA A LAS 9:00 pm, No respondio la llamada BDV
 
-LEAD 4445387786  Luis Zarate (REAGENDA)
+LEAD 4445387786  Luis Zarate (REAGENDA)(TRONDO)
                  05/08 A Llamada
      REAGENDA    05/08 Cita Martes 6/ 6:00 pm (No acudio )
                  07/08 X Llamada, BDV 2V
                  08/08 X Llamada, BDV 2V
+                 12/08 A Lllamada, colgo tronado
 
 PERS 4445233127   
 
 Oswaldo M.
-

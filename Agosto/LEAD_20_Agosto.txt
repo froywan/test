@@ -1,0 +1,23 @@
+LEAD 7651092013 Pim Rog (Rogelio Pimentel)
+                20/08 X Llamada
+                20/08 S Mensaje, respondio envie WhatsApp Audio, confirma cita 
+                        mañana.
+
+LEAD 4441706904 Garcs FG (José)
+                20/08 A Llamada, el curso lo busca para su hijo Carlos de 12 años
+                      Mecomento que el se comunica
+                23/08 X Llamada, BDV 2V
+
+PAGI +1 5094214652 Ale   (No esta en San Luis busca modalidad en línea) 
+                20/08 X Llamada
+                20/08 S Mensaje
+                20/08 Ctx, No esta en San Luis y no puede viajar intente agendar 
+                       video llamada.
+
+RECE 4444676786 Gabriel Medina (CITA MIERCOLES 21 / 7:00 pm) (TRONADO)
+                20/08 A Llamada, comunicarse a as 12:00 pm
+                20/08 Cita Miercoles 21 / 7:00 pm
+                21/08 Reagedo para Miercoles 21 / 4:30 pm
+                22/08 Cita para beca
+                
+ 

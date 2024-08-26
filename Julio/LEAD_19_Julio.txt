@@ -16,7 +16,7 @@ LEAD  4443097311 Chuy Hernandez Paredes
                  26/07 X Llamada BDV 2V
                  26/07 X 
 
-LEAD  4443191416 Betty Morales 
+LEAD  4443191416 Betty Morales (TRONADA) (HASTA ENERO)
        REAGENDA  19/07 X Llamada BDV 2V 
                  19/07 S Mensaje 
                  19/07 X Llamda BDV 2V
@@ -51,4 +51,5 @@ WA    4446656901
                  26/07 S Mensaje 
                  26/07 X Llamada BDV 2V
                  29/07 X Llamada
+                 23/08 A Llamada no solicito información
                  

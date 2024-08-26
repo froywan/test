@@ -1,0 +1,23 @@
+LEAD 4447049528 Jose Zapata 
+                15/08 X Llamada, el numero marcado no existe
+                15/08 S Mensaje
+                17/08 X Llamada, el numero marcado no existe
+                23/08 S Mensaje
+
+PERS 4441150251 Luis Fernando Rangel Martínez (REAGENDA)
+                15/08 S Mensaje
+                15/08 Cita Lunes 19/ 10:00 am
+
+PAGI 4442352811 Yahir Gonzalez (REAGENDA)
+                15/08 Cita Viernes 16/ 8:00 pm, No acudio 
+                17/08 X Llamada, BDV 2V
+                23/08 A Llamada, pero no hablo y colgo
+
+
+LEAD 4445529542 Ale Hernández (REAGENDA)
+                15/08 X Llamada
+                16/08 S Mensaje, WhatsApp Audio visto
+                19/08 X Llamada, BDV 2V
+                23/08 X Llamada, BDV 2V
+                24/08 X Video Llamada Lunes 26 Agosto / 12:00 pm
+

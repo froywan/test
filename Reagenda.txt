@@ -1,0 +1,32 @@
+Agosto/LEAD_12_Agosto.txt:LEAD 4441996541 Ely Vega (COMUNICARSE) (CITA JUEVES 15 8:00 pm) (REAGENDA)
+
+Agosto/LEAD_16_Agosto.txt:WA   4443188784 Andrea  (CITA) (REAGENDA)
+
+Agosto/LEAD_16_Agosto.txt:LEAD 9832015417 Roselly Joseline (REAGENDA)
+
+Agosto/LEAD_16_Agosto.txt:LEAD 4445393438 Axel Lopez (REAGENDA)
+
+Agosto/LEAD_14_Agosto.txt:WA   4811527779 Alberto (REAGENDA)
+
+Agosto/LEAD_13_Agosto.txt:LEAD 4446365397 Oswaldo Acuña (REAGENDA)
+
+Agosto/LEAD_13_Agosto.txt:LEAD 4442914539 Carlos Hernández (REAGENDA)
+
+Agosto/LEAD_05_Agosto.txt:WA   4443393899  Jenny  (CITA SABADO 10/ 11:00 am) (REAGENDA)
+
+Agosto/LEAD_05_Agosto.txt:LEAD 4445387786  Luis Zarate (REAGENDA)
+
+Agosto/LEAD_07_Agosto.txt:LEAD 4441317133 Palo palomero (Guadalupe) (REAGENDA)
+
+Agosto/LEAD_07_Agosto.txt:LEAD 4441432330 Andres Vega (CITA) (REAGENDA) 
+
+Agosto/LEAD_17_Agosto.txt:LEAD 8121900416 Joycie Elizthia Ponce (REAGENDA)
+
+Agosto/LEAD_15_Agosto.txt:PERS 4441150251 Luis Fernando Rangel Martínez (REAGENDA)
+
+Agosto/LEAD_15_Agosto.txt:PAGI 4442352811 Yahir Gonzalez (REAGENDA)
+
+Agosto/LEAD_15_Agosto.txt:LEAD 4445529542 Ale Hernández (REAGENDA)
+
+Agosto/LEAD_10_Agosto.txt:LEAD 4442253120 Isabella Martínez (COMUNICARSE LUNES 12/ 1:00 pm) (REAGENDA)
+

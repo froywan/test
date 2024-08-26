@@ -1,4 +1,4 @@
-LEAD 4441690740  Clau Ruiz 
+LEAD 4441690740  Clau Ruiz   (REAGENDA)
      LLAMAR EN   29/07 X Llamada
       AGOSTO     29/07 S Mensaje
                  29/07 X Llamada, Comunicarse en agosto en un horario de 
@@ -7,7 +7,7 @@ LEAD 4441690740  Clau Ruiz
                             Uriel de 12 años y Valeria de 14, 
                  05/08 A Llamada, Marcar Martes 6 a las 4:00 pm 
                               
-LEAD 4441941386  Jocelyn Beltrán 
+LEAD 4441941386  Jocelyn Beltrán (PRIMER CONTACTO NO RESPONDE)
                  29/07 X Llamada
                  29/07 S Mensaje
                  29/07 X Llamada 
@@ -38,7 +38,7 @@ LEAD  4444242234 Luisa Méndez Aguilar
                  29/07 X Llamada, BDV 2V
      COMUICARSE  31/07 A Llamada, comunicarse el Miercoles 8 Agosto 
                  
-LEAD  4448583768 Rocio Morcillo 
+LEAD  4448583768 Rocio Morcillo  (PRIMER CONTACTO NO RESPONDE)
                  29/07 X Llamada, BDV 2V
                  29/07 S Mensaje
                  29/07 X Llamada, BDV 2V
@@ -48,7 +48,7 @@ LEAD  4448583768 Rocio Morcillo
                  07/08 X Llamada, BDV 2V 
 
 
-LEAD  2221740531 Mony T Villa
+LEAD  2221740531 Mony T Villa  (PRIMER CONTACTO NO RESPONDE)
                  29/07 X Llamada, BDV 2V
                  29/07 S Mensaje
                  29/07 X Llamada, BDV 2V
@@ -57,7 +57,7 @@ LEAD  2221740531 Mony T Villa
                          por correo o por WhatsApp
 
  
-LEAD  4441305851 Ricardo Sánchez 
+LEAD  4441305851 Ricardo Sánchez (REAGENDA ENVIE AUDIO WhatsApp)
                  29/07 X Llamada, BDV 2V
                  29/07 S Mensaje, resppondio msj, Envie Audio WA
                  29/07 Ctx: El curso o busca para su hija 
@@ -66,7 +66,7 @@ LEAD  4441305851 Ricardo Sánchez
                  07/08 X Llamada, DBV 2V
                          
 
-LEAD  7223948300 Esty Guzman 
+LEAD  7223948300 Esty Guzman (REAGENDA ENVIE AUDIO WhatsApp)
                  29/07 A Llamada comunicarse a las 3:00 pm
                  29/07 S Mensaje, resppondio msj, Envie Audio WA
                  29/07 R Audio WA
@@ -74,7 +74,7 @@ LEAD  7223948300 Esty Guzman
                  07/08 X Llamada, DBV 2V
 
 
-LEAD 4444840549  Wuendi Barrera
+LEAD 4444840549  Wuendi Barrera (PRIMER CONTACTO NO RESPONDE)
                  29/07 A Llamada, respondio y colgo 
                  29/07 S Mensaje
                  30/07 X Llamada
@@ -82,7 +82,7 @@ LEAD 4444840549  Wuendi Barrera
                  07/08 X Llamada, DBV 2V
 
 
-LEAD 8333901676  Adriana Chimely Hernandez
+LEAD 8333901676  Adriana Chimely Hernandez (PRIMER CONTACTO NO RESPONDE)
                  29/07 X Llamada
                  29/07 S Mensaje
                  30/07 X Llamada

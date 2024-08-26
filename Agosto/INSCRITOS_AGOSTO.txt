@@ -1,0 +1,12 @@
+REGISTRO FUENTE ATENDIO FECHA  NOMBRE                           NUMERO      ESTATUS  
+09/08/24 WA     CHARLA  09/08  Ayzli Tonatzi Jasso Contreras    4443919085  Apartado,INSCRITO
+         DATOS SUBCRIPTOR: Juana Maria Contreras Pérez
+         NUMERO PERSONAL:4441198987
+         TRABAJO:  Dueño de Eectrodomésticos JASSO
+
+
+REGISTRO FUENTE ATENDIO FECHA  NOMBRE                           NUMERO      ESTATUS  
+15/08/24 PENA   CHARLA  15/08  Everardo Castillo Gómez          4811166549  INSCRITO
+         DATOS SUBCRIPTOR: 
+         NUMERO PERSONAL:
+         TRABAJO:  

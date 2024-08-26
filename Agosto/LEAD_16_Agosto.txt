@@ -1,0 +1,27 @@
+WA   4443188784 Andrea  (CITA) (REAGENDA)
+                16/08 X Llamada, BDV 2V
+                16/08 S Mensaje.
+REAGENDA        16/08 A Llamada, se llama Andrea cita Lunes 19 / 10:00 am (no acudio)
+                21/08 X Llamada, BDV 
+                23/08 X Llamada, BDV 
+
+LEAD 4443322665 Shelby Manufacturing (Sandy Rivera)
+                16/08 A Llamada, comunicarse a las 12:00 pm, me comunique no 
+                      respondio
+                16/08 Ctx: trabaja en recursos humanos
+                23/08 A Llamada Cita Sabado 31 /12:00 pm
+
+LEAD 9832015417 Roselly Joseline (REAGENDA)
+                16/08 X Llamada, BDV 2V
+                16/08 S Mensaje.
+                17/08 Cita Lunes 19 / 5:00 pm
+                23/08 A Llamada, sigue interesada no puedo acudir por motivos 
+                      de trabajo
+
+LEAD 4445393438 Axel Lopez (REAGENDA)
+                16/08 A Llamada, comunicarse Sábado 17/ 11:00 am
+                17/08 A Llamada, agendo Cita Sabádo 17/ 1:30 pm
+                19/08 A Llamada, colgo
+
+PERS 4445752392 Alexandra 
+                19/08 A Llamada, colgo
