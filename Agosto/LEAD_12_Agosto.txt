@@ -11,6 +11,7 @@ LEAD 4443808487 Viviana García (COMUNICARSE)
                 16/08 X Llamada, BDV 2V
                 17/08 X Llamada, BDV 2V
                 21/08 X Llamada, BDV 2V
+                26/08 X Llamada, BDV 2V
 
 LEAD 4441113695 Jona Rubio 
                 12/08 X Llamada, el numero no esta disponible
@@ -29,9 +30,11 @@ LEAD 4441996541 Ely Vega (COMUNICARSE) (CITA JUEVES 15 8:00 pm) (REAGENDA)
                 12/08 A Llamada, comunicarse nuevamente a las 6:00 pm
                 13/08 A Llamada, Cita Jueves 15/8:00 pm (No acudio) 
                 15/08 A Llamada, ella manda mensaje para agendar visita
+                28/08 A Llamada, prefiere dar de baja su numero.
  
 LEAD 4444382359 RoCa Ayvle (Elvia) (DEJO EN VISTO)(REAGENDA ELLA SE COMUNICA)
                 12/08 X Llamada 
                 12/08 S Mensaje WhatsApp Audio, Ella se comunica 
                         pidio costos 
+                28/08 X Llamada, pidio que la diera de baja 
 

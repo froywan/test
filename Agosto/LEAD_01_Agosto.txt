@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 LEAD   4447940334  Salet Ruiz (TRONADO)
+=======
+LEAD   4447940334  Salet Ruiz (TRONAD)
+>>>>>>> 245ba08b321f6f37469ab1fcd54a2955aed35fc5
                    01/08 X Llamada PC
                    01/08 S Mensaje
                    02/08 Respondi mensaje
@@ -6,7 +10,11 @@ LEAD   4447940334  Salet Ruiz (TRONADO)
                    05/08 Pregunte si aun sigue interesada en nuestro curso
        TRONADA     07/08 A Llamada Ya esta en otro curso (TRONADA)
 
+<<<<<<< HEAD
 LEAD   4442615346  Sara Gr (Grimaldo)  (TRONADA)
+=======
+LEAD   4442615346  Sara Gr (Grimaldo)  (TRONAD)
+>>>>>>> 245ba08b321f6f37469ab1fcd54a2955aed35fc5
                    01/08 A Llamada
        REAGENDA    01/08 Cita Lunes 5/ 4:30 pm. (No acudio)
        TRONADA     07/08 X Llamada, BDV 2V
@@ -23,9 +31,15 @@ LEAD   4441536074  Santa Silva
                    Ctx. Lo requiere para su hija de 18 años 
                    02/08 A Llamada, Comunicarse el Martes 6/ 5:00 pm
                    08/08 X Llamada
+<<<<<<< HEAD
                    12/08 X Llamada, el numero marcado no esta disponible
                    15/08 X Llamada, el numero marcado no esta disponible
 
 LEAD 4442001991    Ramses Martínez  (TRONADO)
+=======
+                   
+
+LEAD 4442001991    Ramses Martínez  (TRONAD)
+>>>>>>> 245ba08b321f6f37469ab1fcd54a2955aed35fc5
                    01/08 A Llamada
      TRONADO       01/08 Cita Lunes 5/ 2:00 pm (No acudio, envio msj, ya encontro 

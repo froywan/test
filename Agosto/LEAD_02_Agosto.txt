@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 WA   4444984690  Damara  (REAGENDA, ENVIE AUDIO DEJO EN VISTO) 
+=======
+WA   4444984690  Damara    (TRONADO) 
+>>>>>>> 245ba08b321f6f37469ab1fcd54a2955aed35fc5
                  02/08 X Llamada
                  02/08 S Mensaje
                  03/08 X Llamada

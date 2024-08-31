@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 LEAD 4443400716 Erick Segura (CITA) (ACUDIO,QUIERE PENSARLO 15 SEPTIEMBRE)
                 09/08 A Llamada 
                 09/08 Cita Sábado 10/ 12:00 pm
@@ -20,3 +21,18 @@ LEAD 4444311514 Maria De Jesus Martinez (SEGUIMIENTO) (TRONADA)
                 09/08 S Mensaje 
                 12/08 A Llamada, siempre esta muy ocupada.
                 16/08 A Llamada ya esta en otro curso, tronada
+                29/08 A Llamada Comunicarse Viernes 30 / 1:00 pm
+=======
+LEAD 4443400716 Erick Segura (CITA)
+                09/08 A Llamada 
+                09/08 Cita Sábado 10/ 12:00 pm
+    
+LEAD 4446369843 Josue Perez (WhatsApp PC)
+                09/08 X Llamada 
+                09/08 S Mensaje 
+  
+LEAD 4444311514 Maria De Jesus Martinez (SEGUIMIENTO)
+                09/08 A Llamada, No tiene tiempo para la visita 
+                                 Me pidio costos le di un rango de 3200 a 3800 
+                09/08 S Mensaje 
+>>>>>>> 245ba08b321f6f37469ab1fcd54a2955aed35fc5

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 LEAD 4443166569 Jeimy Medina Gonzalez (CITA)(REAGENDA) (COMNICARSE EN SEPTIEMBRE)
                 08/07 A Llamada
                 08/07 Cita: Lunes 12/ 11:00 am,no acudio reagenda
@@ -27,3 +28,22 @@ WA   4443919085 Ayzli Tonatzi (CITA) (APARTADO 5500) (INSCRITA)
                 08/08 A Llamada
                 08/08 S Mensaje WhatsApp
                 08/08 Cita: Viernes 9 / 4:00 pm (ACUDIO)
+=======
+LEAD 4443166569 Jeimy Medina Gonzalez (CITA)
+                08/07 A Llamada
+                08/07 Cita: Lunes 12/ 11:00 am
+
+WA   4821155033 Danna (CITA)
+                08/08 X Llamada, BDV 2V
+                08/08 S Mensaje WhatsApp
+                08/07 Cita Viernes 9 / 4:00 pm 
+
+LEAD 4444156769 Al Torres (WhatsApp PC)
+                08/08 A Llamada
+                08/08 S Mensaje WhatsApp
+
+WA   4443919085 Ayzli      (CITA)
+                08/08 A Llamada
+                08/08 S Mensaje WhatsApp
+                08/08 Cita: Viernes 9 / 4:00 pm
+>>>>>>> 245ba08b321f6f37469ab1fcd54a2955aed35fc5

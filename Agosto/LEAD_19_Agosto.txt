@@ -1,12 +1,15 @@
-PAGI 4444388230 Andrea 
+PAGI 4444388230 Andrea  (REAGENDA)
                 19/08 A Llamada
                 19/08 Cita Sabado 24/ 11:00 am
+                27/08 A Llamada comunicarse a las 7:00 pm 
+                30/08 Cita Sabado 31/ 10:30 am
             
-WA   4446663173 Alexa Arista 
+WA   4446663173 Alexa Arista (PRIMER CONTACTO) 
                 19/08 X Llamada, BDV 2V
                 19/08 S Mensaje, Comunicarse a las 4:30 pm
                 22/08 X Llamada, BDV 2V
                 23/08 X Llamada, BDV 2V
+                26/08 X Llamada, BDV 2V
 
 LEAD 4444479866 Eduardo Saldaña  (Nadia le va a marcar)
                 19/08 X Llamada, BDV 2V
@@ -19,6 +22,9 @@ LEAD 4443604152 𝓛𝓾𝓹𝓲𝓽𝓪𝓪𝓪
                 19/08 A Llamada,respodio se corto la llamada
                 19/08 S Mensaje de WhatsApp
                 23/08 X Llamada
+                23/08 X Llamada, BDV 2V
+                27/08 X Llamada, BDV 2V
+                28/08 X Llamada, BDV 2V
 
 LEAD 4444606024 Elizabet hernandez mendoza (TRONADA)
                 19/08 X Llamada, BDV 2V
@@ -37,8 +43,11 @@ LEAD 5959573827 Miguel De Jesus
                 19/08 X Llamada, BDV 2V
                 19/08 S Mensaje
                 23/08 X Llamada, BDV 2V
+                23/08 X Llamada, BDV 2V
+                27/08 X Llamada, BDV 2V
 
-LEAD 4441032813 Alberto Pinal
+LEAD 4441032813 Alberto Pinal 
                 19/08 X Llamada, BDVD
                 19/08 S Mensaje
                 19/08 X Llamada, BDVD
+                27/08 X Llamada, BDVD

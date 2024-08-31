@@ -7,7 +7,7 @@ REGISTRO FUENTE ATENDIO FECHA  NOMBRE                           NUMERO      ESTA
          ----   ------  06/08  ----------------                 ----------  -------
 07/08/24 INFO   CHARLA  07/08  ERNESTO MONTALVO                 4448645220  -------
 09/08/24 WA     CHARLA  09/08  Ayzli Tonatzi Jasso Contreras    4443919085  Apartado,INSCRITO
-08/08/24 WA     CHARLA  09/08  Elizabeth Danna Garcia Rocha     4821155033  Cita para beca, acudio, tiene respuesta mañana Martes 13 en la mañana o tarde.
+08/08/24 WA     CHARLA  09/08  Elizabeth Danna Garcia Rocha     4821155033  Cita para beca, acudio, tiene respuesta mañana Martes 13 en la mañana o tarde. INSCRITO
 09/08/24 LEAD   CHARLA  10/08  Erick uriel Segura Juárez        4443400716  Lleno beca, quiere pensarlo para 15/sep/24 
          ----   DOMING  11/08  ----------------                 ----------  -------
 10/08/24 WA     CHARLA  12/08  Yamile Motserrat Rocha Vazquez   4448654668  Cita para beca
@@ -17,14 +17,14 @@ REGISTRO FUENTE ATENDIO FECHA  NOMBRE                           NUMERO      ESTA
          ----   ------  16/08  ----------------                 ----------  -------
          ----   ------  17/08  ----------------                 ----------  -------
          ----   ------  18/08  ----------------                 ----------  -------
-19/08/24 LEAD   CHARLA  19/08  Jazmín Emelia Padrón García      4871253786  Apartado $2500 INSCRITA
+19/08/24 LEAD   CHARLA  19/08  Jazmín Emelia Padrón García      4871253786  Apartado $2500 INSCRITO
          ----   ------  20/08  ----------------                 ----------  -------
-22/08/24 ----   CHARLA  21/08  Cinthia Marely Romero Zuñiga     4445855123  INSCRITA 
-22/08/24 NADI   CHARLA  22/08  Lesly Mercado                    4441204929  Se fue con besa sin autorizar
+22/08/24 ----   CHARLA  21/08  Cinthia Marely Romero Zuñiga     4445855123  INSCRITO 
+22/08/24 NADI   CHARLA  22/08  Lesly Mercado                    4441204929  Se fue con beca sin autorizar, NO LE INTERESA
          ----   ------  23/08  ----------------                 ----------  -------
          ----   ------  24/08  ----------------                 ----------  -------
          ----   ------  25/08  ----------------                 ----------  -------
-         ----   ------  26/08  ----------------                 ----------  -------
+15/08/24 LEAD   CHARLA  26/08  Alejandra Guadalupe Hdz Rdz      4445529542  Respondio solicitud de beca (Jueves o Miercoles)
          ----   ------  27/08  ----------------                 ----------  -------
          ----   ------  28/08  ----------------                 ----------  -------
          ----   ------  29/08  ----------------                 ----------  -------
